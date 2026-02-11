@@ -1,4 +1,4 @@
-import * as fibonacci from "./fibonacci.js";
+import * as fibonacci from "../modules/fibonacci.js";
 
 const entries = Object.entries(fibonacci);
 

@@ -1,4 +1,4 @@
-import { mergeSort } from "./mergeSort.js";
+import { mergeSort } from "../modules/mergeSort.js";
 
 describe("invalid input handling", () => {
   const invalid = [null, undefined, "string", 5];
